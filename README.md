@@ -2,6 +2,14 @@
 
 # Analista de Dados do Microsoft Power BI
 
+[Microsoft Build Cloud Skills Challenge | May 2022](https://www.microsoft.com/en-us/cloudskillschallenge/build/officialrules/2022)
+
+O Microsoft Build Cloud Skills Challenge começa em 24 de maio de 2022 às 16h UTC (16h) e termina em 21 de junho de 2022 às 16h UTC (16h).
+
+Você deve fornecer um endereço de email durante o registro para o Microsoft Build Cloud Skills Challenge – maio de 2022. Você será contatado pelo endereço de email fornecido com os detalhes da certificação gratuita.
+
+Ao concluir um desafio no Microsoft Build Cloud Skills Challenge – maio de 2022, os indivíduos qualificados têm direito a um exame de Certificação Microsoft gratuito.
+
 ## Visão Geral de Análise de Dados
 
 - **Análise Descritiva**
