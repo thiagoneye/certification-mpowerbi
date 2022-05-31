@@ -10,6 +10,15 @@ Você deve fornecer um endereço de email durante o registro para o Microsoft Bu
 
 Ao concluir um desafio no Microsoft Build Cloud Skills Challenge – maio de 2022, os indivíduos qualificados têm direito a um exame de Certificação Microsoft gratuito.
 
+**Conteúdo:**
+
+- **roadmap01:** Introdução à análise de dados da Microsoft
+- **roadmap02:** Preparar dados para análise
+- **roadmap03:** Modelar dados no Power BI
+- **roadmap04:** Visualizar dados no Power BI
+- **roadmap05:** Análise de dados no Power BI
+- **roadmap06:** Gerenciar workspaces e conjuntos de dados no Power BI
+
 ## Visão Geral de Análise de Dados
 
 - **Análise Descritiva**
